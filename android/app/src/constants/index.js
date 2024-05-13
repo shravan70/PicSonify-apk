@@ -1,0 +1,5 @@
+export const logo = "https://aitckm.edu.in/wp-content/uploads/2022/12/LOGO1-FULL.png"
+export const activeBgColor = "#583FAF"
+export const activeTextColor = "#FFFFFF"
+export const inActiveBgColor = "#FFFFFF"
+export const inActiveTextColor = "#583FAF"

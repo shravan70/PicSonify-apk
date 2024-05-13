@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833946585630",
+    "project_id": "image-caption-d15f3",
+    "storage_bucket": "image-caption-d15f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833946585630:android:3ade11b68bcb540d72fc0f",
+        "android_client_info": {
+          "package_name": "com.image_caption_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoI_9Fd5LcHRDk6t7qlCRFd21eY5bpNEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
